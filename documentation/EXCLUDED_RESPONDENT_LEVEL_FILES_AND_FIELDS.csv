@@ -1,0 +1,6 @@
+row_id,source_row_number,source_row_label,decision,reason
+paper-2008-02,6,Profession,excluded,Profession/title cells are quasi-identifying in a sample of 20 alumni.
+paper-2008-02,7,Title,excluded,Profession/title cells are quasi-identifying in a sample of 20 alumni.
+paper-2008-02,all,Response columns 1-20,excluded,Individual respondent columns are omitted from the public package.
+paper-2008-02,file,/Users/dlev2617/Documents/Data/~Nexus_Data/Pedagogy-Evaluation Studies/AirRights/Survey results.xls,not_copied,Original respondent-level workbook is not included in the public package.
+paper-2008-02,file,/Users/dlev2617/Documents/Papers/~05-Published/Transportation Research Record (TRR) - Journal of the Transportation Research Board/TRR-LUTC-KingKrizek/JPER Version/Survey results.xls,not_copied,Duplicate respondent-level workbook copy is not included in the public package.

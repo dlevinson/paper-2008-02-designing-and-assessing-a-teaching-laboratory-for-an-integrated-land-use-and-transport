@@ -1,0 +1,32 @@
+row_id,section,item,valid_response_count,average_score,standard_deviation,scale_or_units,source_note
+paper-2008-02,Respondent context,Length of employment (years),20,2.5774999999999997,,years,Respondent-level columns removed; aggregate only.
+paper-2008-02,Concepts,Jobs-housing balance,20,3.25,1.1779218989389746,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Concepts,TOD,20,2.45,1.3592277219068187,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Concepts,TDM,20,3.45,1.023474474522936,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Concepts,Comprehensive plans,20,2.15,1.3143439428094916,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Concepts,New Urbanism,20,2.75,1.299038105676658,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Concepts,Zoning,20,1.95,1.3955285736952863,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Concepts,Impact fees,20,3.2,1.2489995996796797,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills for job,GIS,20,2.8,1.3266499161421599,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills for job,Demographic analysis,20,3,1.2649110640673518,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills for job,Transit analysis,20,3.85,1.061838029079765,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills for job,Trip generation,20,3.9,1.044030650891055,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills for job,Public presentations,20,1.6,0.7348469228349535,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills for job,Staff presenations,20,1.65,0.852936105461599,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills for job,Written reports,20,1.4,0.7348469228349535,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills for job,Community outreach,20,2.4,1.3928388277184118,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills for job,BCA,20,3.45,0.9733961166965892,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,GIS,20,1.9,1.1357816691600546,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,Data resources,19,1.7894736842105263,0.9539392014169457,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,Comprehensive plans,17,1.6470588235294117,1.3564659966250536,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,Zoning analysis,17,1.2941176470588236,1.1789826122551597,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,Traffic analysis,18,1.7777777777777777,1.1135528725660044,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,Site visits,18,2.0555555555555554,1.49248115565993,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,Writing memos and reports,18,1.0555555555555556,0.49749371855331,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,BCA,18,2,1.1661903789690602,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,Design elements,17,2.9411764705882355,1.8027756377319946,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,Plan proposal,18,0.8888888888888888,0.4,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Skills from class,Presentation,19,1.105263157894737,0.7399324293474371,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Ranked statements,Project was realistic,19,2.736842105263158,1.1135528725660044,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Ranked statements,Concepts apply to job,20,2.95,1.023474474522936,paper survey score,Respondent-level columns removed; aggregate only.
+paper-2008-02,Ranked statements,Skills apply to job,20,3.3,1.0535653752852738,paper survey score,Respondent-level columns removed; aggregate only.
