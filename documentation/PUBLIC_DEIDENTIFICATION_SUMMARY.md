@@ -4,7 +4,7 @@ Updated: 2026-05-17 12:25:10 AEST
 
 ## Decision
 
-This package is staged as `READY-TO-UPLOAD/PUBLIC` because the public payload is aggregate-only. The original alumni survey workbook is not copied. Respondent columns 1-20 are removed, and the profession/title rows are excluded because they are quasi-identifying in a small alumni sample.
+This package is staged as `UPLOADED` because the public payload is aggregate-only. The original alumni survey workbook is not copied. Respondent columns 1-20 are removed, and the profession/title rows are excluded because they are quasi-identifying in a small alumni sample.
 
 ## What Remains
 
