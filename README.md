@@ -1,5 +1,9 @@
 # Designing And Assessing A Teaching Laboratory For An Integrated Land Use And Transportation Course
 
+## Contribution
+
+This paper designs and evaluates a practice-oriented laboratory for integrated land-use and transportation planning. Air-rights development projects above Twin Cities freeways combine zoning, GIS, travel behavior, stakeholder engagement, teamwork, and communication, while alumni evidence shows how the laboratory builds skills that remain central in professional planning.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2008-02`
